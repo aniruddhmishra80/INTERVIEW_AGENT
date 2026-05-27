@@ -1,0 +1,14 @@
+google-generativeai
+langchain
+langchain-google-genai
+pypdf
+pdfplumber
+pytesseract
+openai-whisper
+gTTS
+pygame
+streamlit
+sentence-transformers
+scikit-learn
+python-dotenv
+pydantic
